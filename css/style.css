@@ -74,29 +74,26 @@ section > ul > li {
     padding-top: 15px;
 }
 
-.check {
-    color: #69C2AD;
+.list-bullet {
     display: inline-block; 
-    border: 1px solid #69C2AD;
     border-radius: 50%;
     height: 1.5em;
     width: 1.5em;
     vertical-align: middle;
     text-align: center;
+}
+
+.check {
+    color: #69C2AD;
+    border: 1px solid #69C2AD;
 }
 
 .cross {
     color: #EF8783;
-    display: inline-block; 
     border: 1px solid #EF8783;
-    border-radius: 50%;
-    height: 1.5em;
-    width: 1.5em;
-    vertical-align: middle;
-    text-align: center;
 }
 
-.category-mark{
+.category-mark {
     color: #FFFFFF;
     border-radius: 10px;
     display: inline-block;
@@ -108,15 +105,15 @@ section > ul > li {
     background-color: #45ABEA; 
 }
 
-#q1-goals{
+#q1-goals {
     background-color: #9C72E4;
 }
 
-#recriuting{
+#recriuting {
     background-color: #64C0A9;
 }
 
-#mobile{
+#mobile {
     background-color: #F29E33;
 }
 
