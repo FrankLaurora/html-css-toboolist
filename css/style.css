@@ -23,3 +23,31 @@ header > h1 {
     font-weight: 800;
     vertical-align: middle;
 }
+
+main {
+    width: 65%;
+    margin: 30px auto;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.button-container {
+    padding: 15px 30px;
+}
+
+button {
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.selected-button {
+    background-color: #47ADF1;
+    color: #FFFFFF;
+}
+
+.unselected-button {
+    border: 1px solid #E0E4E6;
+    color: #E0E4E6;
+    background-color: #FFFFFF;
+}
